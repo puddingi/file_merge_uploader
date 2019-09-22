@@ -1,0 +1,8 @@
+{
+"wait_check_file_tick_time":10000,
+"service_type":"merge_topdown",
+"s3_interview_bucket_name":"test.interview",
+"s3_apptest_bucket_name":"test.apptest",
+"record_folder_path":"/media/psf/Home/record/",
+"janus_pp_rec_path":"/opt/janus/bin/janus-pp-rec"
+}
